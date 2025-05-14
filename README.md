@@ -13,3 +13,16 @@ Este repositório e para o primeiro desafio de projeto para a certificação Git
 * Se autenticar usando Tokens e SSH
 * Adicionar colaboradores ao repositório
 * Formatação de Markdown
+
+## Sobre mim
+
+Sou Lucas Soares Pevarello, atualmente cursando análise e desenvolvimento de sistemas, no SENAI Félix Guisard. Um pouco mais sobre mim no meu [perfil do GitHub](https://github.com/LucasPeva)
+
+Para resumir, gosto de aprender mais sobre backend, desenvolvimento de softwares e jogos.
+
+Tenho conhecimentos em:
+* Python
+* JavaSript
+* HTML & CSS
+* C/C++
+* GDSript
